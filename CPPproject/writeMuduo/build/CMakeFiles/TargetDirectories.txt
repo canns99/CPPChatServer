@@ -1,0 +1,3 @@
+/home/wx/Documents/network/writeMuduo/build/CMakeFiles/rebuild_cache.dir
+/home/wx/Documents/network/writeMuduo/build/CMakeFiles/mymuduo.dir
+/home/wx/Documents/network/writeMuduo/build/CMakeFiles/edit_cache.dir

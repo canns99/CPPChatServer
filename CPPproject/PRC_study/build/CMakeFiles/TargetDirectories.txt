@@ -1,0 +1,13 @@
+/home/wx/Documents/network/PRC_study/build/CMakeFiles/rebuild_cache.dir
+/home/wx/Documents/network/PRC_study/build/CMakeFiles/edit_cache.dir
+/home/wx/Documents/network/PRC_study/build/src/CMakeFiles/rebuild_cache.dir
+/home/wx/Documents/network/PRC_study/build/src/CMakeFiles/mprpc.dir
+/home/wx/Documents/network/PRC_study/build/src/CMakeFiles/edit_cache.dir
+/home/wx/Documents/network/PRC_study/build/example/CMakeFiles/rebuild_cache.dir
+/home/wx/Documents/network/PRC_study/build/example/CMakeFiles/edit_cache.dir
+/home/wx/Documents/network/PRC_study/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/wx/Documents/network/PRC_study/build/example/callee/CMakeFiles/provider.dir
+/home/wx/Documents/network/PRC_study/build/example/callee/CMakeFiles/edit_cache.dir
+/home/wx/Documents/network/PRC_study/build/example/caller/CMakeFiles/rebuild_cache.dir
+/home/wx/Documents/network/PRC_study/build/example/caller/CMakeFiles/consumer.dir
+/home/wx/Documents/network/PRC_study/build/example/caller/CMakeFiles/edit_cache.dir

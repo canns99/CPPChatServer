@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wx/Documents/network/writeMuduo/TimeStamp.h
+iostream
+-
+string
+-
+
+/home/wx/Documents/network/writeMuduo/Timestamp.cc
+TimeStamp.h
+/home/wx/Documents/network/writeMuduo/TimeStamp.h
+time.h
+-
+
+/home/wx/Documents/network/writeMuduo/logger.cc
+logger.h
+/home/wx/Documents/network/writeMuduo/logger.h
+iostream
+-
+
+/home/wx/Documents/network/writeMuduo/logger.h
+nocopyable.h
+/home/wx/Documents/network/writeMuduo/nocopyable.h
+string
+-
+
+/home/wx/Documents/network/writeMuduo/nocopyable.h
+
+/home/wx/Documents/network/writeMuduo/test_logger.cc
+logger.h
+/home/wx/Documents/network/writeMuduo/logger.h
+iostream
+-
+TimeStamp.h
+/home/wx/Documents/network/writeMuduo/TimeStamp.h
+

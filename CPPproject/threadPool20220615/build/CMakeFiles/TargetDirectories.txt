@@ -1,0 +1,5 @@
+/home/wx/Documents/network/threadPool/threadPool20220615/build/CMakeFiles/rebuild_cache.dir
+/home/wx/Documents/network/threadPool/threadPool20220615/build/CMakeFiles/edit_cache.dir
+/home/wx/Documents/network/threadPool/threadPool20220615/build/src/CMakeFiles/rebuild_cache.dir
+/home/wx/Documents/network/threadPool/threadPool20220615/build/src/CMakeFiles/mysqlPool.dir
+/home/wx/Documents/network/threadPool/threadPool20220615/build/src/CMakeFiles/edit_cache.dir
